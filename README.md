@@ -1,4 +1,4 @@
-# Meta things which are self refrencing to upscale bank project
+# Meta things which are self refrencing to a bank project
 
 1. Finocial 
 2. Upscale bank
